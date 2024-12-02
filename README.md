@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**SkorpionG/SkorpionG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am interested in programming, web development, mobile development, machine learning, and AI.
 
-Here are some ideas to get you started:
+**Currently learning about**
+- React
+- React Native
+- Flutter
+- Next.js
+- Machine Learning and Data Science
+- C and C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**
+- Python
+- JavaScript
+- HTML
+- CSS
+- SQL
+
+**Tools**
+- Node.js
+- React.js
+- sqlite3
+- Postgres
