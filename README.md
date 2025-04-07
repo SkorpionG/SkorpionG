@@ -13,6 +13,8 @@ I am interested in programming, web development, mobile development, machine lea
 **Languages**
 - Python
 - JavaScript
+- TypeScript
+- Dart
 - HTML
 - CSS
 - SQL
